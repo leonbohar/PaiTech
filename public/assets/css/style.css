@@ -1,4 +1,4 @@
-/* PaiTech & Consulting — palette and type carried over from the original Framer page */
+/* PaiTech – Dev & Ai Consulting — palette and type carried over from the original Framer page */
 :root {
   --bg: #120617;
   --bg-2: #16071f;
@@ -242,14 +242,13 @@ section { padding-block: 96px; }
 
 /* ---------- Floating Facebook link ---------- */
 .fab-facebook {
-  position: fixed; bottom: 20px; inset-inline-end: 20px; z-index: 60;
-  width: 48px; height: 48px; border-radius: 50%; display: inline-flex; align-items: center; justify-content: center;
-  background: #1877f2; color: #fff; box-shadow: 0 8px 24px -6px rgba(0, 0, 0, .55);
-  transition: transform .2s, box-shadow .2s;
+  position: fixed; bottom: 16px; left: 16px; z-index: 60;
+  width: 34px; height: 34px; border-radius: 50%; display: inline-flex; align-items: center; justify-content: center;
+  background: #1877f2; color: #fff; box-shadow: 0 4px 12px -4px rgba(0, 0, 0, .6);
+  transition: transform .2s;
 }
-.fab-facebook:hover { transform: translateY(-2px) scale(1.05); box-shadow: 0 12px 28px -6px rgba(24, 119, 242, .6); }
-.fab-facebook svg { width: 26px; height: 26px; }
-@media (max-width: 639px) { .fab-facebook { width: 44px; height: 44px; bottom: 16px; inset-inline-end: 16px; } }
+.fab-facebook:hover { transform: scale(1.08); }
+.fab-facebook svg { width: 18px; height: 18px; }
 
 /* ---------- Contact page ---------- */
 .contact-hero { padding-top: 72px; padding-bottom: 32px; }

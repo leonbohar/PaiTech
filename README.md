@@ -1,4 +1,4 @@
-# PaiTech & Consulting — אתר החברה
+# PaiTech – Dev & Ai Consulting — אתר החברה
 
 אתר סטטי (HTML/CSS/JS, בלי שלב build) לדומיין **pai-tech-consulting.com**, שמתארח ב־Cloudflare Pages.
 
