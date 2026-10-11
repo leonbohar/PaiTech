@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pai-tech-consulting.com/sitemap.xml
