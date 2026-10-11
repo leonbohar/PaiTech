@@ -9,6 +9,9 @@ public/                 ← כל מה שמתפרסם באתר (תיקיית הפ
   index.html            דף הבית
   contact.html          דף צור קשר (נגיש גם בכתובת /contact)
   404.html              דף "לא נמצא"
+  terms.html            תנאי שימוש (/terms)
+  privacy.html          מדיניות פרטיות כולל מנגנון מחיקת נתונים (/privacy)
+  accessibility.html    הצהרת נגישות (/accessibility)
   assets/css|js|img     עיצוב, סקריפטים, תמונות ולוגו
   _headers              כותרות אבטחה ו־cache
   robots.txt, sitemap.xml
